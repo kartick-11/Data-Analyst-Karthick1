@@ -23,7 +23,8 @@ Perform exploratory data analysis (EDA) to uncover patterns in park usage, ameni
 - **Data Storage & Management**  
   - Store raw data in **Amazon S3** for scalable object storage.
     
-![Data ingestion](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_ingestion.png)
+![Data Ingestion](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_ingestion.png)
+![Data Ingestion](https://github.com/kartick-11/Data-Analyst-Karthick1/blob/main/data_ing.png)
 
   - Use **AWS Data Pipeline** to automate data movement and transformation.  
   - **Amazon DynamoDB** stores metadata for park amenities and location details.  
