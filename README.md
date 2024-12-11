@@ -186,26 +186,24 @@ Prepare raw data for downstream analysis using advanced wrangling techniques.
 ## **Additional Resources**  
 To further explore the methodologies and tools utilized in these projects, refer to the following resources:
 
-### **CC - Part 1: 
-Descriptive Analysis**  
+### **CC - Part 1: Descriptive Analysis**  
 1. **Data Ingestion**: Collect raw data from various sources.  
 2. **Data Profiling**: Understand data structure and anomalies.  
 3. **Data Cleaning**: Ensure data quality and consistency.  
 4. **Pipeline Design**: Automate data transformation and movement.  
-*For a detailed guide on implementing descriptive analysis, refer to the full **[CC - Part 1.docx](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/CC%20-%20Part%201.docx)** document.*
+*For a detailed guide on implementing descriptive analysis, refer to the full [CC - Part 1.docx](Part1.docx) document.*
 
 ### **Exploratory Analysis**  
 1. **Data Enriching**: Integrate external data like weather or events.  
 2. **Data Profiling and Cleaning**: Refine datasets for deep analysis.  
 3. **Data Pipeline Design**: Support scalable data exploration.  
 
-### **CC - Part 2: 
-Advanced Processes**  
+### **CC - Part 2: Advanced Processes**  
 5. **Data Enriching**: Add calculated fields for deeper analysis.  
 6. **Data Protection**: Secure data with encryption and access controls.  
 7. **Data Governance**: Establish policies for compliance and accuracy.  
 8. **Data Observability**: Monitor pipelines to ensure performance.  
-*For more insights on advanced processes, refer to the **[CC - Part 2.docx](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/CC%20-%20Part2.docx)** document.*
+*For more insights on advanced processes, refer to the [CC - Part 2.docx](Part2.docx) document.*
 
 ---
 
