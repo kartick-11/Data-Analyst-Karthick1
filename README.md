@@ -109,7 +109,10 @@ Identify causes behind a decline in park visitor numbers and pinpoint issues suc
   - Diagnose causes using ML models in **Amazon SageMaker**.  
 
 - **Security & Compliance**  
-  - Encrypt data with **AWS KMS**.  
+  - Encrypt data with **AWS KMS**.
+
+ ![Data KMS](data-kms.png)
+ 
   - Track API activity with **AWS CloudTrail**.  
 
 - **Monitoring & Logging**  
