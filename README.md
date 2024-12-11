@@ -62,6 +62,7 @@ Analyze visitor patterns by considering factors like park size, amenities, seaso
 
 - **Data Processing & Transformation**
 ![Data Profiling](data_prf.png)
+
   - Use **AWS Glue** for data cleaning and transformation.  
   - Visualize transformations with **AWS Glue DataBrew**.  
 
@@ -96,6 +97,7 @@ Identify causes behind a decline in park visitor numbers and pinpoint issues suc
 - **Data Processing & Transformation**  
   - Clean data using **AWS Glue**.
 ![Data Cleaning](data_cln.png)
+
   - Prepare data visually with **AWS Glue DataBrew**.  
 
 - **Data Analysis & Analytics**  
@@ -155,6 +157,7 @@ Prepare raw data for downstream analysis using advanced wrangling techniques.
   - Store raw data in **Amazon S3**.  
   - Transform data with **AWS Data Pipeline**.
 ![Data Pipeline](data_pip.png)
+
 - **Data Processing & Transformation**  
   - Clean and structure data using **AWS Glue**.  
   - Use **AWS Glue DataBrew** for intuitive wrangling.  
