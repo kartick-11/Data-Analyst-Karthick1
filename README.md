@@ -207,5 +207,5 @@ To further explore the methodologies and tools utilized in these projects, refer
 
 ---
 
-## **Conclusion**  
-These projects leverage AWS tools like **Amazon S3**, **AWS Data Pipeline**, **AWS Glue**, **Amazon Athena**, and **Amazon SageMaker** to enable efficient and secure data analytics. Insights derived from these projects can aid city planners in making data-driven decisions for better park management and urban planning.
+## Conclusion
+These Vancouver Parks Data Analytics projects leverage a broad array of AWS services, such as Amazon S3, AWS Data Pipeline, AWS Glue, Amazon Athena, Amazon SageMaker, Amazon DynamoDB, AWS Key Management Service (KMS), AWS CloudTrail, Amazon CloudWatch, and AWS Glue DataBrew, to ensure efficient, secure, and scalable data analytics. These tools facilitate data storage, transformation, processing, and analysis, enabling city planners to gain valuable insights into park usage, visitor patterns, and trends. The integration of AWS services also supports robust security and compliance measures, providing a reliable infrastructure for data-driven decision-making in urban planning. By utilizing these advanced tools, the projects not only enhance the understanding of park dynamics but also contribute to informed, data-backed decisions for the future of Vancouver's park management.
