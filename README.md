@@ -23,7 +23,7 @@ Perform exploratory data analysis (EDA) to uncover patterns in park usage, ameni
 - **Data Storage & Management**  
   - Store raw data in **Amazon S3** for scalable object storage.
     
-![Data Ingestion](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_ingestion.png)
+![Data Ingestion](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/Data_ingestion.png)
 
   - Use **AWS Data Pipeline** to automate data movement and transformation.  
   - **Amazon DynamoDB** stores metadata for park amenities and location details.  
@@ -64,7 +64,7 @@ Analyze visitor patterns by considering factors like park size, amenities, seaso
 
 - **Data Processing & Transformation**
   
-![Data Profiling](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_profiling.png)
+![Data Profiling](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/Data_profiling.png)
 
   - Use **AWS Glue** for data cleaning and transformation.  
   - Visualize transformations with **AWS Glue DataBrew**.  
@@ -100,7 +100,7 @@ Identify causes behind a decline in park visitor numbers and pinpoint issues suc
 - **Data Processing & Transformation**  
   - Clean data using **AWS Glue**.
 
-![Data Cleaning](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_cleaning.png)
+![Data Cleaning](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/Data_cleaning.png)
 
   - Prepare data visually with **AWS Glue DataBrew**.  
 
@@ -161,7 +161,7 @@ Prepare raw data for downstream analysis using advanced wrangling techniques.
   - Store raw data in **Amazon S3**.  
   - Transform data with **AWS Data Pipeline**.
 
-![Data Pipeline](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_pipeline.png)
+![Data Pipeline](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/Data_pipeline.png)
 
 - **Data Processing & Transformation**  
   - Clean and structure data using **AWS Glue**.  
@@ -189,7 +189,7 @@ Descriptive Analysis**
 2. **Data Profiling**: Understand data structure and anomalies.  
 3. **Data Cleaning**: Ensure data quality and consistency.  
 4. **Pipeline Design**: Automate data transformation and movement.  
-   *For a detailed guide on implementing descriptive analysis, refer to the full **[CC - Part 1.docx](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/CC%20-%20Part%201.docx)** document.*
+   *For a detailed guide on implementing descriptive analysis, refer to the full **[CC - Part 1.docx](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/CC%20-%20Part%201.docx)** document.*
 
 ### **Exploratory Analysis**  
 1. **Data Enriching**: Integrate external data like weather or events.  
@@ -202,10 +202,9 @@ Advanced Processes**
 6. **Data Protection**: Secure data with encryption and access controls.  
 7. **Data Governance**: Establish policies for compliance and accuracy.  
 8. **Data Observability**: Monitor pipelines to ensure performance.  
-   *For more insights on advanced processes, refer to the **[CC - Part 2.docx](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/CC%20-%20Part2.docx)** document.*
+   *For more insights on advanced processes, refer to the **[CC - Part 2.docx](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/CC%20-%20Part2.docx)** document.*
 
 ---
 
 ## **Conclusion**  
 These projects leverage AWS tools like **Amazon S3**, **AWS Data Pipeline**, **AWS Glue**, **Amazon Athena**, and **Amazon SageMaker** to enable efficient and secure data analytics. Insights derived from these projects can aid city planners in making data-driven decisions for better park management and urban planning.
-```
