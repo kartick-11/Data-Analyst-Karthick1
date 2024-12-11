@@ -25,36 +25,6 @@ Perform exploratory data analysis (EDA) to uncover patterns in park usage, ameni
     
 ![Data Ingestion](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_ingestion.png)
 
-
-## Methodology
-
-### Data Storage & Management  
-Store raw data in **Amazon S3** for scalable object storage.
-
-![Data Ingestion](https://github.com/kartick-11/Data-Analyst-Karthick1/blob/main/data_ing.png)  
-*Data Ingestion Process*
-
-### Data Processing & Transformation  
-Clean and transform data using **AWS Glue**.  
-Employ **AWS Glue DataBrew** for visual data wrangling.
-
-![Data Profiling](https://github.com/kartick-11/Data-Analyst-Karthick1/blob/main/data_prf.png)  
-*Data Profiling Overview*
-
-### Data Processing & Transformation  
-Use **AWS Glue** for data cleaning and transformation.  
-Visualize transformations with **AWS Glue DataBrew**.
-
-![Data Pipeline](https://github.com/kartick-11/Data-Analyst-Karthick1/blob/main/data_pip.png)  
-*Data Pipeline Design*
-
-### Data Quality Control  
-Monitor and validate the dataset.
-
-![Data Cleaning](https://github.com/kartick-11/Data-Analyst-Karthick1/blob/main/data_cln.png)  
-*Data Cleaning Process*
-
-
   - Use **AWS Data Pipeline** to automate data movement and transformation.  
   - **Amazon DynamoDB** stores metadata for park amenities and location details.  
 
