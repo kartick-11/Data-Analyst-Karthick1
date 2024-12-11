@@ -23,7 +23,7 @@ Perform exploratory data analysis (EDA) to uncover patterns in park usage, ameni
 - **Data Storage & Management**  
   - Store raw data in **Amazon S3** for scalable object storage.
     
-![Data Ingestion](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/Data_ingestion.png)
+![image](https://github.com/kartick-11/Data-Analyst-Kar/raw/main/Data_ingestion.png)
 ![Data Ingestion](https://raw.githubusercontent.com/kartick-11/Data-Analyst-Karthick1/main/data_ing.png)
 
   - Use **AWS Data Pipeline** to automate data movement and transformation.  
