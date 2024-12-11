@@ -22,7 +22,9 @@ Perform exploratory data analysis (EDA) to uncover patterns in park usage, ameni
 ### **Methodology**  
 - **Data Storage & Management**  
   - Store raw data in **Amazon S3** for scalable object storage.
+    
 ![Data Ingestion](data_ing.png)
+
   - Use **AWS Data Pipeline** to automate data movement and transformation.  
   - **Amazon DynamoDB** stores metadata for park amenities and location details.  
 
