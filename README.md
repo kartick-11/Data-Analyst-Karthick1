@@ -182,6 +182,7 @@ Prepare raw data for downstream analysis using advanced wrangling techniques.
   - Monitor processes via **Amazon CloudWatch**.  
 
 ![Dashboard](dash.png)
+
 ---
 
 ## **Additional Resources**  
